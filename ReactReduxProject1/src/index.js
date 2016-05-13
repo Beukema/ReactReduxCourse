@@ -8,7 +8,11 @@ import SearchBar from './components/search_bar';
 
 
 const App = () => {
-  return <div>HI!</div>
+  return (
+    <div>
+      <SearchBar />
+    </div>
+  );
 }
 
 
